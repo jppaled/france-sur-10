@@ -1,0 +1,14 @@
+{
+  "name": "villeideal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "jppaled",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "node-fetch": "^2.6.0",
+    "nodemon": "^1.19.3",
+    "url": "^0.11.0"
+  }
+}
