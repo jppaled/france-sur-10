@@ -10,9 +10,9 @@
 `yarn install`
 
 ## Start
-You must change the `PHPSESSID` in the `getAllCityInfosByDepartement()` function
+- You must change the `PHPSESSID` in the `getAllCityInfosByDepartement()` function
 
-`node index.js`
+- `node index.js`
 
 ## Caution
 
