@@ -7,7 +7,7 @@
 
 ## Install
 
-`yarn install`
+- `yarn install`
 
 ## Start
 - You must change the `PHPSESSID` in the `getAllCityInfosByDepartement()` function
