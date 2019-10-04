@@ -12,6 +12,8 @@
 ## Start
 - You must change the `PHPSESSID` in the `getAllCityInfosByDepartement()` function
 
+You can get the `PHPSESSID` in cookies
+
 - `node index.js`
 
 ## Caution
